@@ -1,1 +1,27 @@
+body {
+  background-color: #3c5556;
+  font-family: "SF Pro Display";
+}
 
+header {
+  background-color: #c8dbd7;
+  color: #3c5556;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  margin: 20px;
+}
+
+.login-button {
+  display: inline-block;
+  padding: 10px 20 px;
+  background-color: #f5d4c3;
+  color: #f6efe7;
+  text-decoration: none;
+  border-radius: 5px;
+}
